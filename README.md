@@ -1,4 +1,4 @@
-##Counter was made for a practice work.
+## Counter was made for a practice work.
 
 
 ## Available Scripts
