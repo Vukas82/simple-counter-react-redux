@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Counter was made for a practice work.
+
 
 ## Available Scripts
 
